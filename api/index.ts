@@ -1,5 +1,5 @@
 import type { Request, Response } from 'express';
-import app from '../server';
+import app from '../server.ts';
 
 export default (req: Request, res: Response) => {
   const incomingUrl = new URL(req.url || '/', 'http://localhost');
