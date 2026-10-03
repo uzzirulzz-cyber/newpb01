@@ -1,0 +1,8 @@
+{
+  "name": "Playbeat Digital - Premium Storefront",
+  "description": "Premium digital subscriptions, streaming accounts, software licenses, gift cards, and official Magcubic 4K smart projectors with instant automated dispatch.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
